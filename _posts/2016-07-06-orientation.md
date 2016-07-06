@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <GDI+> image orientation (EXIF)
+title: GDI+ >> image orientation (EXIF)
 published: true
 ---
 
