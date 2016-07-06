@@ -34,6 +34,6 @@ for (UINT J = 0; j < num_properties; ++j) {
 
 _Reference_
 <br />
-> [Reading and Writing Metadata] (https://msdn.microsoft.com/en-us/library/windows/desktop/ms533832(v=vs.85).aspx)
+[Reading and Writing Metadata] (https://msdn.microsoft.com/en-us/library/windows/desktop/ms533832(v=vs.85).aspx)
 <br />
-> [PropertyItem] (https://msdn.microsoft.com/en-us/library/system.drawing.imaging.propertyitem.id(v=vs.110).aspx)
+[PropertyItem] (https://msdn.microsoft.com/en-us/library/system.drawing.imaging.propertyitem.id(v=vs.110).aspx)
