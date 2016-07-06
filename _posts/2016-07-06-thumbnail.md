@@ -4,7 +4,7 @@ title: GDI+ - thumbnail
 published: true
 ---
 
-## GDI+로 thumbnail 그리기
+GDI+로 thumbnail 그리기
 
 ```cpp
 // GDI+를 사용하기 위한 헤더
