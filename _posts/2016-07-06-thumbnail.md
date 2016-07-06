@@ -23,5 +23,5 @@ graphics.DrawImage(thumb, xpos, ypos, width, height);
 delete thumb;
 ```
 
-_Reference_
+_Reference_  
 > [GetThumbnailImage](https://msdn.microsoft.com/ko-kr/library/windows/desktop/ms535394(v=vs.85).aspx)
